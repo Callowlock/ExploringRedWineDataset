@@ -1,0 +1,2 @@
+Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). Red wine quality. Retrieved December 17, 2024, from https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009
+Shergill, R. (August 16, 2024). Creating Amazing Visualizations with Python. Medium. Retrieved December 17, 2024, from https://riteshshergill.medium.com/creating-amazing-visualizations-with-matplotlib-and-seaborn-486fa7d68c1e
